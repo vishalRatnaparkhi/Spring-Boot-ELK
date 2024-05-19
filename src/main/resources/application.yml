@@ -1,0 +1,6 @@
+server:
+  port: 9890
+
+spring:
+  application:
+    name: SpringBoot-ELK
